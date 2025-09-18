@@ -3,3 +3,4 @@ data/
 *.zip
 *.pth
 __pycache__/
+venv/
