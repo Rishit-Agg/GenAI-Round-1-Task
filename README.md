@@ -78,7 +78,7 @@ Both models are evaluated with and without data augmentation. The results includ
 ## How to Run
 1. Clone the repository:
    
-   git clone https://github.com/Rishit-Agg/image-classifier-CIFAR10.git
+   git clone https://github.com/Rishit-Agg/image-classifier-CIFAR10.git 
    cd image-classifier-CIFAR10
 
 2. Install dependencies:
