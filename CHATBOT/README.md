@@ -15,6 +15,7 @@ This is a chatbot with multiple personas:
 2. Create & activate virtual environment:
 
     python -m venv venv
+   
     .\venv\Scripts\activate      # Windows
    
     source venv/bin/activate     # Mac/Linux
